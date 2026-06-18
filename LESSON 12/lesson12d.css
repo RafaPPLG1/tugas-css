@@ -1,0 +1,11 @@
+.box{
+    height: 50px;
+    border: 1px solid gray;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    background-color: pink;
+}

@@ -1,0 +1,8 @@
+.grid{
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid2{
+    background-color: pink;
+}

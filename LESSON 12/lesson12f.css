@@ -1,0 +1,32 @@
+body{
+    font-family: Arial;
+}
+
+.teks{
+    font-weight: bold;
+    color: white;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    background-color: #6a5acd;
+    padding: 10px;
+    gap: 50px;
+}
+
+.search{
+    border-radius: 20px;
+    border: none;
+    flex: 1;
+    padding: 8px;
+}
+
+.download{
+    border: 1px solid white;
+    color: white;
+    background: transparent;
+    border-radius: 5;
+    padding: 8px 15px;
+    cursor: pointer;
+}

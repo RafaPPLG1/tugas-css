@@ -1,0 +1,12 @@
+.teks{
+    display: inline-block;
+    width: 300px;
+    vertical-align: middle;
+}
+
+.button{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 5px 10px;
+    margin-left: 5px;
+}

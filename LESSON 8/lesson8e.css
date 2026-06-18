@@ -1,0 +1,32 @@
+.teks{
+    font-family: Arial;
+    color: black;
+    font-size: 45px;
+    text-align: left;
+}
+
+.box{
+    background-color: rgb(234, 233, 233);
+    border: none;
+    margin-bottom: 6px;
+    padding: 15px;
+    width: 500px;
+    display: block;
+}
+
+.button1{
+    font-family: 'Arial';
+    font-size: 13px;
+    background: black;
+    color: white;
+    padding: 12px 20px;
+    border: 0;
+}
+
+.button2{
+    background-color: rgb(234, 233, 233);
+    border: none;
+    margin-left: 5px;
+    padding: 12px;
+    
+}

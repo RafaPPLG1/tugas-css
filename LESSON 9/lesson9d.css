@@ -1,0 +1,19 @@
+.box{
+    border: 1px solid gray;
+    width: 300px;
+    padding: 10px;
+    background-color: #1f1f1f;
+}
+
+.yt{
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-family: Arial;
+    color: white;
+}
+
+.teks{
+    color: gray;
+    font-size: 13px;
+    font-family: Arial;
+}
