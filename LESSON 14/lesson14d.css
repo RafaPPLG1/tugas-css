@@ -1,0 +1,33 @@
+body{
+    height: 3000px;
+    font-family: Arial;
+}
+
+.box{
+    width: 100px;
+    height: 100%;
+    right: 0;
+    top: 0;
+    position: fixed;
+    background-color: green;
+    color: white;
+}
+
+.container{
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    width: 300px;
+}
+
+.overlay{
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

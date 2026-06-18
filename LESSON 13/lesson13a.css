@@ -1,0 +1,24 @@
+.box{
+    display: flex;
+    width: 500px;
+    border: 1px solid white;
+}
+
+.grid1{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid2{
+    background-color: skyblue;
+    flex: 1;
+}
+
+.teks{
+    background-color: black;
+    color: white;
+}

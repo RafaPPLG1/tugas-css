@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+}
+
+.produk{
+    position: relative;
+    display: inline-block;
+}
+
+.foto{
+    width: 250px;
+    display: block;    
+}
+
+.disc{
+    background-color: black;
+    position: absolute;
+    top: 10px;
+    right: 0;
+    color: white;
+    padding: 5px 10px;
+}
+

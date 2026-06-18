@@ -1,0 +1,86 @@
+body{
+    font-family: Arial;
+}
+
+.container{
+    width: 500px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.profil{
+    display: flex;
+}
+
+.pp{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    object-fit: cover;
+    margin-right:10px;
+ 
+}
+
+.judul{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.name{
+    color: gray;
+    font-size: 18px;
+    margin-left: 6px
+}
+
+.desk{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.nick{
+    align-items: center;
+    flex: 1;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.desk{
+    font-size: 18px;
+}
+
+.yt{
+    width: 370px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 15px;
+    display: flex;
+}
+
+.thumb{
+    width: 180px;
+    height: 100px;
+    background-color: gray;
+}
+
+.info{
+    padding: 10px;
+    align-items: center;
+}
+
+.teks{
+    color: gray;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.teks2{
+    font-size: 18px;
+}

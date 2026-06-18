@@ -1,0 +1,54 @@
+body{
+    font-family: Arial;
+}
+.box{
+    background-color: white;
+    width: 400px;
+    display: block;
+    margin: 10px;
+    margin-bottom: 15px;
+}
+
+.sub{
+    color: gray;
+}
+
+.profil{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.pp{
+    border-radius: 50%;
+    object-fit: cover;
+    height: 50px;
+    width: 50px;
+}
+
+.desk{
+    margin-left: 10px;
+    flex: 1;
+}
+.waktu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.judul{
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 3px;
+    font-size: 18px;
+}
+
+.desk1{
+    color: gray;
+    font-size: 14px
+}
+
+.jam{
+    color: gray;
+    font-size: 14px;
+}

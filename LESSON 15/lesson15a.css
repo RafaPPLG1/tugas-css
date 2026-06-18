@@ -1,0 +1,18 @@
+body{
+    height: 3000px;
+}
+
+.button{
+    position: absolute;
+    background-color: black;
+    border-radius: 50px;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    align-items: center;
+    color: white;
+    border: none;
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}

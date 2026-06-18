@@ -1,0 +1,49 @@
+body{
+    font-family: Arial;
+}
+
+.container{
+    width: 400px;
+    display: flex;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.sub{
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.profil{
+    width: 50px;
+    margin-right: 10px;
+    border-radius: 50%;
+    height: 50px;
+}
+
+.judul{
+    flex: 1;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nama{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.jam{
+    color: gray;
+}
+
+.teks{
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.desc{
+    color: gray;
+}
