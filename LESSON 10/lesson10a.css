@@ -1,0 +1,50 @@
+body{
+    font-family: Arial;
+}
+
+.profil{
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    display: inline-block;
+    border-radius: 100%;
+}
+
+.teks{
+    font-size: 14px;
+    color: gray;
+    margin-block: 3px;
+}
+
+.teks1{
+    font-weight: bold;
+    font-size: 15px;
+    margin-block: 0;
+}
+
+.tweet{
+    background: rgb(10, 102, 194);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.box{
+    margin-bottom: 10px;
+    border: 1px solid white;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.info{
+    display: inline-block;
+    width: 150px;
+    vertical-align: middle;
+    margin-left: 10px;
+}

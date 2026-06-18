@@ -1,0 +1,45 @@
+body{
+    font-family: Arial;
+}
+
+.img{
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+
+.box{
+    margin-top: 20px;
+}
+
+.box2{
+    display: inline-block;
+    vertical-align: middle;
+    width: 250px;
+    margin-left: 5px;
+}
+
+.judul{
+    margin-block: 12px;
+    font-weight: bold;
+    vertical-align: middle;
+    margin-top: 0;
+    font-size: 17px;
+}
+
+.desc{
+    font-size: 14px;
+    color: gray;
+    display: block;
+    margin-block: 0; 
+    font-size: 15px;
+}
+
+.desc2{
+    font-size: 16px;
+    color: gray;
+    display: block;
+    margin-top: 5px;
+    font-size: 15px;
+}
